@@ -1,0 +1,11 @@
+{
+  "name": "Figuro3DViewer",
+  "version": "1.0.0",
+  "description": "3D Viewer Figuro3D",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sandra Gesing",
+  "license": "ISC"
+}
